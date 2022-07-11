@@ -36,3 +36,34 @@
     transform: rotate(360deg);
   }
 }
+
+.navbar {
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: 200;
+  color: rgb(251, 251, 251);
+}
+
+.bt {
+  border-radius: 0.5cm;
+  margin: 1cm;
+  padding: 0.8em;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  background-color: rgb(177, 238, 244);
+  box-shadow: violet;
+  text-align: center;
+  font-family: cursive; 
+  border: 0cm;
+}
+
+.button {
+  text-align: center;
+}
+
+.font-link {
+  font-family: 'Splash', cursive;
+}
+
+.head{
+  font-family: 'Oswald', sans-serif;
+}
+
